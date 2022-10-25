@@ -2,6 +2,7 @@ import './App.css';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { Header } from './Components/Header/Header';
 import { Home } from './Pages/Home/Home';
+import { Card } from './Components/Card/Card';
 
 function App() {
   return (
